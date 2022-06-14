@@ -1,0 +1,68 @@
+From bash
+lastline (generic function with 1 method)
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.13.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+[Ext] Obj val: 795008.0
+Max iters: 10
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.100000e+01   RelR: 1.000000e+00   Xhat: 7.778175e+00   X: 7.778175e+00
+Iter:    8   AbsR: 2.808667e-15   RelR: 2.898521e-16   Xhat: 1.256074e-15   X: 2.512148e-15
+Done.
+[PH] Number of iterations: 8
+[PH] L^2 error: 2.8086667748613606e-15
+[PH] obj: 795008.0
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 795008.0
+Max iters: 20
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.100000e+01   RelR: 1.000000e+00   Xhat: 7.778175e+00   X: 7.778175e+00
+Iter:    8   AbsR: 2.808667e-15   RelR: 2.898521e-16   Xhat: 1.256074e-15   X: 2.512148e-15
+Done.
+[PH] Number of iterations: 8
+[PH] L^2 error: 2.8086667748613606e-15
+[PH] obj: 795008.0
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 795008.0
+Max iters: 30
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.100000e+01   RelR: 1.000000e+00   Xhat: 7.778175e+00   X: 7.778175e+00
+Iter:    8   AbsR: 2.808667e-15   RelR: 2.898521e-16   Xhat: 1.256074e-15   X: 2.512148e-15
+Done.
+[PH] Number of iterations: 8
+[PH] L^2 error: 2.8086667748613606e-15
+[PH] obj: 795008.0
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 795008.0
+Max iters: 40
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.100000e+01   RelR: 1.000000e+00   Xhat: 7.778175e+00   X: 7.778175e+00
+Iter:    8   AbsR: 2.808667e-15   RelR: 2.898521e-16   Xhat: 1.256074e-15   X: 2.512148e-15
+Done.
+[PH] Number of iterations: 8
+[PH] L^2 error: 2.8086667748613606e-15
+[PH] obj: 795008.0
+
+ ================================= 
+

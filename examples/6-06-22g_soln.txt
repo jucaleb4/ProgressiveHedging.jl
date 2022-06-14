@@ -1,0 +1,812 @@
+From bash
+lastline (generic function with 1 method)
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.13.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+[Ext] Obj val: 565639.9999999998
+Max iters: 10
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:   10   AbsR: 3.561833e-01   RelR: 3.099674e-02   Xhat: 1.597287e-01   X: 3.183603e-01
+Done.
+[PH] Number of iterations: 10
+[PH] L^2 error: 0.3561832642091335
+[PH] obj: 565048.5056496293
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 20
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:   20   AbsR: 1.689787e-01   RelR: 1.766548e-02   Xhat: 7.549703e-03   X: 1.688099e-01
+Done.
+[PH] Number of iterations: 20
+[PH] L^2 error: 0.16897866689356242
+[PH] obj: 565945.9378488866
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 30
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:   30   AbsR: 1.881643e-02   RelR: 2.012346e-03   Xhat: 1.470237e-03   X: 1.875891e-02
+Done.
+[PH] Number of iterations: 30
+[PH] L^2 error: 0.01881643382849003
+[PH] obj: 565672.7414045188
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 40
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:   40   AbsR: 2.469761e-03   RelR: 2.649179e-04   Xhat: 5.144595e-04   X: 2.415585e-03
+Done.
+[PH] Number of iterations: 40
+[PH] L^2 error: 0.002469761099231649
+[PH] obj: 565644.4438583087
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 50
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:   50   AbsR: 3.271655e-04   RelR: 3.509953e-05   Xhat: 1.170320e-04   X: 3.055172e-04
+Done.
+[PH] Number of iterations: 50
+[PH] L^2 error: 0.00032716551961158605
+[PH] obj: 565640.7891176131
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 60
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:   60   AbsR: 6.174214e-05   RelR: 6.623208e-06   Xhat: 4.874035e-05   X: 3.790080e-05
+Done.
+[PH] Number of iterations: 60
+[PH] L^2 error: 6.174214458009484e-5
+[PH] obj: 565640.3255853571
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 70
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:   70   AbsR: 4.492044e-05   RelR: 4.818397e-06   Xhat: 4.468419e-05   X: 4.601067e-06
+Done.
+[PH] Number of iterations: 70
+[PH] L^2 error: 4.492044425407877e-5
+[PH] obj: 565640.2679344212
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 80
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:   80   AbsR: 4.439809e-05   RelR: 4.762085e-06   Xhat: 4.439474e-05   X: 5.451505e-07
+Done.
+[PH] Number of iterations: 80
+[PH] L^2 error: 4.439808976972578e-5
+[PH] obj: 565640.2609409129
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 90
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:   90   AbsR: 4.421397e-05   RelR: 4.742059e-06   Xhat: 4.421391e-05   X: 6.734045e-08
+Done.
+[PH] Number of iterations: 90
+[PH] L^2 error: 4.421396571683196e-5
+[PH] obj: 565640.2601393234
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 100
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  100   AbsR: 4.403669e-05   RelR: 4.722773e-06   Xhat: 4.403669e-05   X: 2.593262e-08
+Done.
+[PH] Number of iterations: 100
+[PH] L^2 error: 4.403669327801846e-5
+[PH] obj: 565640.2600764812
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 110
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  110   AbsR: 4.386035e-05   RelR: 4.703589e-06   Xhat: 4.386034e-05   X: 2.489852e-08
+Done.
+[PH] Number of iterations: 110
+[PH] L^2 error: 4.386034716196422e-5
+[PH] obj: 565640.2600991379
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 120
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  120   AbsR: 4.368480e-05   RelR: 4.684494e-06   Xhat: 4.368479e-05   X: 2.477682e-08
+Done.
+[PH] Number of iterations: 120
+[PH] L^2 error: 4.3684795394425315e-5
+[PH] obj: 565640.2601312185
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 130
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  130   AbsR: 4.351003e-05   RelR: 4.665486e-06   Xhat: 4.351002e-05   X: 2.466614e-08
+Done.
+[PH] Number of iterations: 130
+[PH] L^2 error: 4.351002788794001e-5
+[PH] obj: 565640.260164177
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 140
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  140   AbsR: 4.333604e-05   RelR: 4.646565e-06   Xhat: 4.333603e-05   X: 2.455618e-08
+Done.
+[PH] Number of iterations: 140
+[PH] L^2 error: 4.3336039871405216e-5
+[PH] obj: 565640.2601971005
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 150
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  150   AbsR: 4.316283e-05   RelR: 4.627730e-06   Xhat: 4.316282e-05   X: 2.444680e-08
+Done.
+[PH] Number of iterations: 150
+[PH] L^2 error: 4.316282712194078e-5
+[PH] obj: 565640.2602298988
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 160
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  160   AbsR: 4.299039e-05   RelR: 4.608981e-06   Xhat: 4.299038e-05   X: 2.433800e-08
+Done.
+[PH] Number of iterations: 160
+[PH] L^2 error: 4.29903855413478e-5
+[PH] obj: 565640.2602625648
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 170
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  170   AbsR: 4.281871e-05   RelR: 4.590318e-06   Xhat: 4.281870e-05   X: 2.422978e-08
+Done.
+[PH] Number of iterations: 170
+[PH] L^2 error: 4.281871105193282e-5
+[PH] obj: 565640.2602950984
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 180
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  180   AbsR: 4.264780e-05   RelR: 4.571739e-06   Xhat: 4.264779e-05   X: 2.412213e-08
+Done.
+[PH] Number of iterations: 180
+[PH] L^2 error: 4.264779959241596e-5
+[PH] obj: 565640.2603275003
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 190
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  190   AbsR: 4.247765e-05   RelR: 4.553245e-06   Xhat: 4.247764e-05   X: 2.401505e-08
+Done.
+[PH] Number of iterations: 190
+[PH] L^2 error: 4.2477647166964034e-5
+[PH] obj: 565640.2603597711
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 200
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  200   AbsR: 4.230825e-05   RelR: 4.534835e-06   Xhat: 4.230824e-05   X: 2.390852e-08
+Done.
+[PH] Number of iterations: 200
+[PH] L^2 error: 4.2308249776826415e-5
+[PH] obj: 565640.2603919115
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 210
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  210   AbsR: 4.213960e-05   RelR: 4.516508e-06   Xhat: 4.213960e-05   X: 2.380255e-08
+Done.
+[PH] Number of iterations: 210
+[PH] L^2 error: 4.2139603446492575e-5
+[PH] obj: 565640.2604239217
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 220
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  220   AbsR: 4.197170e-05   RelR: 4.498264e-06   Xhat: 4.197170e-05   X: 2.369714e-08
+Done.
+[PH] Number of iterations: 220
+[PH] L^2 error: 4.1971704254833624e-5
+[PH] obj: 565640.2604558028
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 230
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  230   AbsR: 4.180455e-05   RelR: 4.480104e-06   Xhat: 4.180454e-05   X: 2.359228e-08
+Done.
+[PH] Number of iterations: 230
+[PH] L^2 error: 4.1804548266217414e-5
+[PH] obj: 565640.260487555
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 240
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  240   AbsR: 4.163813e-05   RelR: 4.462025e-06   Xhat: 4.163812e-05   X: 2.348797e-08
+Done.
+[PH] Number of iterations: 240
+[PH] L^2 error: 4.163813160157006e-5
+[PH] obj: 565640.2605191789
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 250
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  250   AbsR: 4.147245e-05   RelR: 4.444028e-06   Xhat: 4.147244e-05   X: 2.338421e-08
+Done.
+[PH] Number of iterations: 250
+[PH] L^2 error: 4.1472450394881166e-5
+[PH] obj: 565640.2605506752
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 260
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  260   AbsR: 4.130750e-05   RelR: 4.426112e-06   Xhat: 4.130749e-05   X: 2.328098e-08
+Done.
+[PH] Number of iterations: 260
+[PH] L^2 error: 4.130750081639129e-5
+[PH] obj: 565640.2605820443
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 270
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  270   AbsR: 4.114328e-05   RelR: 4.408278e-06   Xhat: 4.114327e-05   X: 2.317830e-08
+Done.
+[PH] Number of iterations: 270
+[PH] L^2 error: 4.114327904432506e-5
+[PH] obj: 565640.2606132869
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 280
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  280   AbsR: 4.097978e-05   RelR: 4.390523e-06   Xhat: 4.097977e-05   X: 2.307614e-08
+Done.
+[PH] Number of iterations: 280
+[PH] L^2 error: 4.0979781287363136e-5
+[PH] obj: 565640.2606444034
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 290
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  290   AbsR: 4.081700e-05   RelR: 4.372849e-06   Xhat: 4.081700e-05   X: 2.297452e-08
+Done.
+[PH] Number of iterations: 290
+[PH] L^2 error: 4.081700378246511e-5
+[PH] obj: 565640.2606753947
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 300
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  300   AbsR: 4.065494e-05   RelR: 4.355254e-06   Xhat: 4.065494e-05   X: 2.287343e-08
+Done.
+[PH] Number of iterations: 300
+[PH] L^2 error: 4.065494279415248e-5
+[PH] obj: 565640.260706261
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 310
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  310   AbsR: 4.049359e-05   RelR: 4.337739e-06   Xhat: 4.049359e-05   X: 2.277286e-08
+Done.
+[PH] Number of iterations: 310
+[PH] L^2 error: 4.049359459782031e-5
+[PH] obj: 565640.260737003
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 320
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  320   AbsR: 4.033296e-05   RelR: 4.320302e-06   Xhat: 4.033295e-05   X: 2.267281e-08
+Done.
+[PH] Number of iterations: 320
+[PH] L^2 error: 4.033295551165094e-5
+[PH] obj: 565640.260767621
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 330
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  330   AbsR: 4.017302e-05   RelR: 4.302944e-06   Xhat: 4.017302e-05   X: 2.257328e-08
+Done.
+[PH] Number of iterations: 330
+[PH] L^2 error: 4.017302184876527e-5
+[PH] obj: 565640.2607981159
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 340
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  340   AbsR: 4.001379e-05   RelR: 4.285663e-06   Xhat: 4.001378e-05   X: 2.247426e-08
+Done.
+[PH] Number of iterations: 340
+[PH] L^2 error: 4.0013789988247925e-5
+[PH] obj: 565640.2608284879
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 350
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  350   AbsR: 3.985526e-05   RelR: 4.268460e-06   Xhat: 3.985525e-05   X: 2.237576e-08
+Done.
+[PH] Number of iterations: 350
+[PH] L^2 error: 3.9855256283831854e-5
+[PH] obj: 565640.2608587379
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 360
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  360   AbsR: 3.969742e-05   RelR: 4.251334e-06   Xhat: 3.969741e-05   X: 2.227776e-08
+Done.
+[PH] Number of iterations: 360
+[PH] L^2 error: 3.9697417155215776e-5
+[PH] obj: 565640.2608888663
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 370
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  370   AbsR: 3.954027e-05   RelR: 4.234284e-06   Xhat: 3.954026e-05   X: 2.218027e-08
+Done.
+[PH] Number of iterations: 370
+[PH] L^2 error: 3.954026901922693e-5
+[PH] obj: 565640.2609188735
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 380
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  380   AbsR: 3.938381e-05   RelR: 4.217311e-06   Xhat: 3.938380e-05   X: 2.208327e-08
+Done.
+[PH] Number of iterations: 380
+[PH] L^2 error: 3.9383808317309956e-5
+[PH] obj: 565640.2609487601
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 390
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  390   AbsR: 3.922803e-05   RelR: 4.200414e-06   Xhat: 3.922803e-05   X: 2.198678e-08
+Done.
+[PH] Number of iterations: 390
+[PH] L^2 error: 3.922803152358643e-5
+[PH] obj: 565640.2609785267
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 400
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  400   AbsR: 3.907294e-05   RelR: 4.183592e-06   Xhat: 3.907293e-05   X: 2.189077e-08
+Done.
+[PH] Number of iterations: 400
+[PH] L^2 error: 3.90729351215735e-5
+[PH] obj: 565640.2610081737
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 410
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  410   AbsR: 3.891852e-05   RelR: 4.166845e-06   Xhat: 3.891851e-05   X: 2.179527e-08
+Done.
+[PH] Number of iterations: 410
+[PH] L^2 error: 3.89185156368725e-5
+[PH] obj: 565640.2610377017
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 420
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  420   AbsR: 3.876477e-05   RelR: 4.150173e-06   Xhat: 3.876476e-05   X: 2.170025e-08
+Done.
+[PH] Number of iterations: 420
+[PH] L^2 error: 3.876476959723991e-5
+[PH] obj: 565640.2610671113
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 430
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  430   AbsR: 3.861169e-05   RelR: 4.133575e-06   Xhat: 3.861169e-05   X: 2.160571e-08
+Done.
+[PH] Number of iterations: 430
+[PH] L^2 error: 3.861169356017536e-5
+[PH] obj: 565640.2610964029
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 440
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  440   AbsR: 3.845928e-05   RelR: 4.117051e-06   Xhat: 3.845928e-05   X: 2.151166e-08
+Done.
+[PH] Number of iterations: 440
+[PH] L^2 error: 3.845928411654052e-5
+[PH] obj: 565640.2611255769
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 450
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  450   AbsR: 3.830754e-05   RelR: 4.100600e-06   Xhat: 3.830753e-05   X: 2.141810e-08
+Done.
+[PH] Number of iterations: 450
+[PH] L^2 error: 3.8307537854290136e-5
+[PH] obj: 565640.2611546342
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 460
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  460   AbsR: 3.815645e-05   RelR: 4.084223e-06   Xhat: 3.815645e-05   X: 2.132499e-08
+Done.
+[PH] Number of iterations: 460
+[PH] L^2 error: 3.815645139618574e-5
+[PH] obj: 565640.2611835748
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 470
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  470   AbsR: 3.800602e-05   RelR: 4.067918e-06   Xhat: 3.800602e-05   X: 2.123236e-08
+Done.
+[PH] Number of iterations: 470
+[PH] L^2 error: 3.8006021391111235e-5
+[PH] obj: 565640.2612123995
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 480
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  480   AbsR: 3.785624e-05   RelR: 4.051686e-06   Xhat: 3.785624e-05   X: 2.114021e-08
+Done.
+[PH] Number of iterations: 480
+[PH] L^2 error: 3.785624449518842e-5
+[PH] obj: 565640.261241109
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 490
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  490   AbsR: 3.770712e-05   RelR: 4.035525e-06   Xhat: 3.770711e-05   X: 2.104853e-08
+Done.
+[PH] Number of iterations: 490
+[PH] L^2 error: 3.770711740079557e-5
+[PH] obj: 565640.2612697035
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 500
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00
+Iter:  500   AbsR: 3.755864e-05   RelR: 4.019436e-06   Xhat: 3.755863e-05   X: 2.095731e-08
+Done.
+[PH] Number of iterations: 500
+[PH] L^2 error: 3.7558636810482895e-5
+[PH] obj: 565640.2612981836
+
+ ================================= 
+
+  Activating project at `/lustre/eaglefs/projects/pvb/cju/ProgressiveHedging.jl`
+[Ext] Obj val: 565639.9999999998
+Max iters: 510
+Initializing...
+...launching workers...
+...initializing subproblems...
+Solving...
+Iter:    0   AbsR: 1.037090e+01   RelR: 1.414214e+00   Xhat: 5.987642e+00   X: 8.467804e+00

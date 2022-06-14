@@ -1,12 +1,15 @@
 
 using Pkg
-Pkg.activate(@__DIR__)
+using Debugger
+# Pkg.activate(@__DIR__)
+Pkg.activate("..")
 
 using ProgressiveHedging
+const PH = ProgressiveHedging
 import JuMP
 import Ipopt
 
-function create_model(scenario_id::ScenarioID)
+function create_model(scenario_id::ScenarioID, kwargs...)
     
     model = JuMP.Model(()->Ipopt.Optimizer())
     JuMP.set_optimizer_attribute(model, "print_level", 0)
@@ -81,7 +84,7 @@ function create_model(scenario_id::ScenarioID)
     return JuMPSubproblem(model, scenario_id, vdict)
 end
 
-scen_tree = ScenarioTree()
+scen_tree = PH.ScenarioTree()
 branch_node_1 = add_node(scen_tree, root(scen_tree))
 branch_node_2 = add_node(scen_tree, root(scen_tree))
 
@@ -90,6 +93,16 @@ add_leaf(scen_tree, branch_node_1, 0.125)
 
 add_leaf(scen_tree, branch_node_2, 0.375)
 add_leaf(scen_tree, branch_node_2, 0.125)
+
+ef_model = @time PH.solve_extensive(scen_tree,
+    create_model, 
+    ()->Ipopt.Optimizer(),
+    "Unused example string",
+    opt_args=(print_level=0,)
+)
+println(ef_model)
+
+println("====================")
 
 (niter, abs_res, rel_res, obj, soln_df, phd) = solve(scen_tree,
                                                      create_model,
